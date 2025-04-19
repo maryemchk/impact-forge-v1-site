@@ -58,7 +58,7 @@ const HeroSection = () => {
           onClick={handleJoinClick}
           className="cyber-btn rounded-sm text-lg animate-pulse-glow"
         >
-          Join Now
+          Join Discord Now
         </button>
       </div>
 
