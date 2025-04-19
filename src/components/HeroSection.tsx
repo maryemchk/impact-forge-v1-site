@@ -19,7 +19,7 @@ const HeroSection = () => {
   }, [index, titleText]);
 
   const handleJoinClick = () => {
-    window.open('https://discord.gg/your-discord-link', '_blank');
+    window.open('https://discord.gg/xbs628pa', '_blank');
     
     const audio = new Audio('/click-sound.mp3');
     audio.volume = 0.3;
